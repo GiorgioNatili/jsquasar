@@ -37,11 +37,11 @@
 
 						view.succesfulLogin(false);
 
-					}else{
+					}
 
 						view.showLoader('', true);
 
-					}
+					
 
 					}
 				}

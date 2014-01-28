@@ -7,13 +7,15 @@
 
 	console.log('module loaded');
 
-	var initInteraction = function(){
+	var initInteraction = function(user){
 
 		controller.init(this);
 
 		$username 	= $('#username');
 		$password 	= $('#pwd');
 		$submit		= $('#submit');
+
+		$username.val(user);
 
 		$errorMessage = $('.error');
 

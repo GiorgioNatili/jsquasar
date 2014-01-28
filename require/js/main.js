@@ -1,4 +1,3 @@
-
 ;define('main', ['appframework', 'appframeworkui', 'views/LoginView'], (function ($, $ui, login) {
 
 	console.log(arguments)

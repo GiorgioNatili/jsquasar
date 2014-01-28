@@ -53,6 +53,7 @@
 		if(status){
 
 			$.ui.popup('we, password corretta');
+			$.ui.loadContent('loggedin', false, false, 'up');
 			
 		}else{
 

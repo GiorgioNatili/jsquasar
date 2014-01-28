@@ -13,6 +13,8 @@
 		if(!checkField($username, 'where is the username?'))return;
 		if(!checkField($password, 'where is the password?'))return;
 
+		localStorage.setItem('username', $username.val());
+
 	};
 
 	var checkField = function(field, msg){

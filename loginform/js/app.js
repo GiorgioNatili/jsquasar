@@ -1,9 +1,9 @@
 // Changed the path to the view of the Login module
-require(['main', 'views/login/LoginView'], (function (main, login) {
+require(['main'], (function (main) {
 	
 	// console.log('app loaded');
 	// console.log(arguments, $);
 	
-	login.init();
+	main.init();
 
 }));
