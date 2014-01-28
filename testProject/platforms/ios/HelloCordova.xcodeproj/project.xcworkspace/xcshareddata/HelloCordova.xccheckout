@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E72526E2-3035-4C77-BB6B-9272D4114A63</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HelloCordova</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F4A92A21-FB27-411D-993A-FC60883DE35B</key>
+		<string>https://github.com/GiorgioNatili/jsquasar</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>testProject/platforms/ios/HelloCordova.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F4A92A21-FB27-411D-993A-FC60883DE35B</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/GiorgioNatili/jsquasar</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F4A92A21-FB27-411D-993A-FC60883DE35B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F4A92A21-FB27-411D-993A-FC60883DE35B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>jsquasar</string>
+		</dict>
+	</array>
+</dict>
+</plist>
